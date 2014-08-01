@@ -1,6 +1,15 @@
 /*
- * From:              https://lkml.org/lkml/2005/9/28/347
- * Original filename: test_cn_proc.c
+ * From:
+ *    https://lkml.org/lkml/2005/9/28/347
+ *
+ * Original filename:
+ *    test_cn_proc.c
+ *
+ * See also:
+ *    /usr/include/linux/netlink.h
+ *    /usr/include/linux/connector.h
+ *    /usr/include/linux/cn_proc.h
+ *    /usr/include/linux/rtnetlink.h
  */
 
 /*
